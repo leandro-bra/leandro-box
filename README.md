@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @msleandro
+I’m interested in learning algorithms and coding with Ruby.
+And I’m currently learning algorithms and JavaScript....
