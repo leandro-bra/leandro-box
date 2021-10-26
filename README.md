@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @leandro-ptbr
+- 👋 Hi, I’m @leandro-bra
 I’m interested in learning algorithms and coding with Ruby.
 And I’m currently learning algorithms and JavaScript....
